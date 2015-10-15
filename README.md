@@ -7,5 +7,5 @@ The nepali dataset is sorted according to [Devanagari](https://en.wikipedia.org/
 
 Feel free to use it in your projects.
 
-##Use Cases:
+###Use Cases:
 Make your creative uses of this data. Maybe you can use the data for word suggestions or as a blacklist for spell checker. Or maybe you're doing NLP in Nepali and want data to identify names from a sentence.
