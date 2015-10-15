@@ -1,5 +1,5 @@
 # Thar
-List of all Surnames used in Nepal.
+*List of all Surnames used in Nepal.*
 
 This is a dataset containing the Nepali surnames in CSV format. There are two files containing the surnames in english and nepali. There are **2000+** surnames.
 
