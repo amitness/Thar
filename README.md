@@ -12,7 +12,7 @@ Make your creative uses of this data. Maybe you can use the data for word sugges
 
 
 #### Data Sources:
-- [IOE Entrance Results](https://github.com/studenton/ioe) (2068 - 2073)
+- [IOE Entrance Results](https://github.com/amitness/ioe) (2068 - 2073)
 - [Ministry of Education](http://www.moe.gov.np)
 - [Institute of Science & Technology](http://www.tuiost.edu.np/)
 - [Nepal Engineer's Association (Voter List)](http://www.neanepal.org.np/)
