@@ -12,6 +12,8 @@ Make your creative uses of this data. Maybe you can use the data for word sugges
 
 
 #### Data Sources:
+Only those data sources which ensure that the person is a Nepalese citizen are used. For example, only candidates who have submitted their citizenship photocopy are allowed to give an entrance exam.
+
 - [Institute of Science & Technology](http://www.tuiost.edu.np/)
 - [IOE Entrance Results](https://github.com/amitness/ioe) (2068 - 2073)
 - [Ministry of Education](http://www.moe.gov.np)
